@@ -1,0 +1,22 @@
+.bar
+{
+background: rgba(217, 217, 217, 0.2);
+border-radius: 50px;
+width: 95%;
+margin: 15px;
+height: 20px;
+}
+.pool_text
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 10px;
+}

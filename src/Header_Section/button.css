@@ -1,0 +1,59 @@
+.options
+{
+  position: relative;
+}
+.highlight_botton
+{
+    position: absolute;
+    width: 184px;
+    height: 44px;
+    left: 1184px;
+    top: 18px; 
+    background: #00C88C;
+    border-radius: 10px;
+}
+.text_style_high
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #ffffff;
+}
+
+.normal_button 
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 177px;
+    height: 44px;
+    left: 996px;
+    top: 18px;
+    
+    border: 2px solid #00C88C;
+    border-radius: 10px;
+}
+.text_style_normal
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.arrange_text
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

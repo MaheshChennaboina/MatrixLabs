@@ -1,0 +1,29 @@
+.price_content{
+    position: absolute;
+    width: 279px;
+    height: 104px;
+    left: 55px;
+    top: 703px;
+    background: #1C1D39;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+}
+.green_color{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 20px;
+color: #00C88C;
+
+}
+.title{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 10px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}

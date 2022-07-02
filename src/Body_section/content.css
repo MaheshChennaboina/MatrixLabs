@@ -1,0 +1,21 @@
+.content
+{
+position: absolute;
+width: 572px;
+height: 300px;
+left: 52px;
+top: 348px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+.content_order p
+{
+    text-align: left;
+}

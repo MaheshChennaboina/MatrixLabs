@@ -1,0 +1,34 @@
+.detail_content
+{
+    position: absolute;
+    width: 598px;
+    height: 600px;/*641*/
+    left: 774px;
+    top: 258px;
+    
+    background: #1C1D39;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+    border-radius: 0px 0px 10px 10px;
+}
+.detail_value
+{
+display: flex;
+align-items: center;
+justify-content:space-between;
+position: relative;
+color: #FFFFFF;
+}
+.detail_value p
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 45px;
+color: rgba(255, 255, 255, 0.8);
+margin: 0 10px;
+}
+.detail_value span
+{
+    margin-right: 30px;
+}

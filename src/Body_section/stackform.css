@@ -1,0 +1,72 @@
+label
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    left: 10px;
+}
+.stackform
+{
+    position: relative;
+    width: 100%;
+   
+}
+.stackform .upperInput input
+{
+   
+   margin: 10px;
+   margin-top: 10px;
+   padding: 5px;
+   width: 80%;
+   background: rgba(217, 217, 217, 0.2);
+   outline: none;
+   color: #ffffff;
+}
+.stackform input::placeholder{
+    color: #ffffff;
+}
+.upperInput
+{
+ position: relative;
+ margin: 10px 0;
+}
+.stackform .max{
+    padding: 5px 15px;
+    margin-left:-10px;
+
+}
+.input_stake_button
+{
+    position: relative;
+    width: 100%;
+    margin-left:10px ;
+}
+.stackform .input_stake_button .stake
+{
+    background: #F6FFFC;
+    border-radius: 10px;
+    width: 45%;
+    padding: 0.5rem;
+    margin: auto;
+    text-align: center;
+    margin: 0px 8px;
+    border: none;
+}
+.withdraw_btn button{ 
+background-color: #FF0000;
+border-radius: 10px;
+color: #ffffff;
+width: 92%;
+margin-top: 10px;
+margin-left: 15px;
+padding: 5px;
+outline: none;
+border: none;
+}
+.outerbox{
+    margin-left:0px;
+}

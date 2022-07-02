@@ -1,0 +1,11 @@
+.price_right_content
+{
+position: absolute;
+width: 279px;
+height: 104px;
+left: 379px;
+top: 703px;
+
+background: #1C1D39;
+box-shadow: 5px 5px 6px -19px #FFFFFF;
+}
